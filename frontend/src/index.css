@@ -1,0 +1,12 @@
+@import "./fonts/cabinet-grotesk.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--font-cabinet-grotesk: 'CabinetGrotesk-Variable', 'CabinetGrotesk-Regular', 'CabinetGrotesk-Medium', 'CabinetGrotesk-Bold', 'CabinetGrotesk-Light', 'CabinetGrotesk-Extrabold', 'CabinetGrotesk-Black', 'CabinetGrotesk-Thin', 'CabinetGrotesk-Extralight', sans-serif;
+}
+
+body {
+	font-family: var(--font-cabinet-grotesk);
+}
