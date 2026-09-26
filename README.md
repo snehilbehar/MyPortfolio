@@ -25,4 +25,4 @@ Each project can include `link` for its GitHub repository and `liveUrl` for its 
 
 ## Deployment
 
-The active portfolio is the Vite application at the repository root. Vercel runs `npm run build` and serves `dist`. The `frontend/` and `backend/` directories preserve the previous portfolio and are excluded from CLI deployment uploads.
+The active portfolio is the Vite application at the repository root. Vercel runs `npm run build` and serves `dist`.
