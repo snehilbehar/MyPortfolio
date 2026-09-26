@@ -1,0 +1,187 @@
+{
+  "hero": {
+    "name": "Snehil Behar",
+    "headline": "Software Engineer focused on scalable backend systems, object-oriented design, and practical automation.",
+    "subheadline": "I build reliable software in C/C++ and Python, with experience in TDD, REST APIs, microservices, and AI-assisted workflows.",
+    "location": "Raleigh, NC",
+    "availability": "Open to software engineering opportunities",
+    "avatarLabel": "SB",
+    "primaryCta": {
+      "label": "View Projects",
+      "href": "#projects"
+    },
+    "secondaryCta": {
+      "label": "Contact Me",
+      "href": "#contact"
+    }
+  },
+  "about": {
+    "title": "About",
+    "summary": "Software Engineer with 3+ years of experience in object-oriented software development, scalable backend architecture, and system optimization. Strong in C/C++ and Python, with hands-on experience applying design patterns, Test-Driven Development, and unit testing in enterprise cloud environments.",
+    "highlights": [
+      "Built backend microservices and data processing components for platforms serving 16M+ users",
+      "Refactored legacy codebases using design patterns, modular boundaries, and dependency injection",
+      "Applied TDD, unit testing, and automation to improve reliability and code quality"
+    ]
+  },
+  "stats": [
+    {
+      "label": "Years of experience",
+      "value": "3+"
+    },
+    {
+      "label": "Users served",
+      "value": "16M+"
+    },
+    {
+      "label": "Core languages",
+      "value": "2"
+    }
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/snehilbehar"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/snehilbehar"
+    },
+    {
+      "label": "Email",
+      "href": "mailto:snehilbehar@gmail.com"
+    },
+    {
+      "label": "Phone",
+      "href": "tel:+14134094176"
+    }
+  ],
+  "skills": [
+    "C/C++",
+    "Python",
+    "Object-Oriented Design",
+    "Design Patterns",
+    "Test-Driven Development",
+    "Unit Testing",
+    "Microservices",
+    "REST APIs",
+    "Linux",
+    "AWS",
+    "Azure",
+    "PostgreSQL",
+    "CI/CD",
+    "AI Workflows"
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Cisco",
+      "period": "Aug 2021 - Jul 2024",
+      "description": "Engineered robust backend microservices and data processing components in C/C++ for enterprise platforms serving 16M+ active users.",
+      "achievements": [
+        "Optimized low-latency data flows and execution speed across distributed Linux environments",
+        "Documented modular boundaries and dependency injection patterns to streamline reviews",
+        "Prototyped AI agents and automation workflows to accelerate root-cause analysis"
+      ]
+    },
+    {
+      "role": "Technical Undergraduate Intern",
+      "company": "Cisco",
+      "period": "Feb 2021 - Jul 2021",
+      "description": "Optimized backend streaming infrastructure and contributed to software quality efforts across multi-language repositories.",
+      "achievements": [
+        "Reduced memory footprints and CPU usage across Linux network nodes",
+        "Implemented TDD unit tests with pyTest and enforced quality checks",
+        "Helped refactor legacy client modules into scalable microservices"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "institution": "North Carolina State University",
+      "period": "Aug 2024 - May 2026"
+    },
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": "R.V. College of Engineering",
+      "period": "Aug 2017 - Jul 2021"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Matchday (Soccer2Cricket)",
+      "summary": "Find football matches with a similar statistical story to a cricket match, using Cricsheet and StatsBomb data.",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "SQLite",
+        "JavaScript"
+      ],
+      "link": "https://github.com/snehilbehar/Soccer2Cricket",
+      "liveUrl": "https://matchday-indol.vercel.app"
+    },
+    {
+      "name": "Sprintwise - AI Jira Sprint Planner",
+      "summary": "Turn Confluence requirements and Jira delivery history into sprint plans with AI-generated stories, capacity-aware assignments, and review before ticket creation.",
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "OpenAI",
+        "Jira API"
+      ],
+      "link": "https://github.com/snehilbehar/Sprintwise",
+      "liveUrl": "https://sprintwise-three.vercel.app/"
+    },
+    {
+      "name": "ParkHelp - Smart Parking System",
+      "summary": "Connect Raspberry Pi cameras and sensors, AWS Lambda predictions, and iOS apps over MQTT to monitor parking availability.",
+      "tags": [
+        "Python",
+        "Raspberry Pi",
+        "AWS Lambda",
+        "MQTT",
+        "iOS"
+      ],
+      "link": "https://github.com/snehilbehar/ParkHelp",
+      "liveUrl": "https://youtu.be/Xgs-y23zOV8",
+      "demoLabel": "Watch demo"
+    },
+    {
+      "name": "OpenEMR Infrastructure",
+      "summary": "Cloud-native infrastructure on Azure and AWS with containerized microservices, automated testing, and security audits.",
+      "tags": [
+        "Azure",
+        "AWS",
+        "Security",
+        "Microservices"
+      ],
+      "link": "https://github.com/snehilbehar/openemr"
+    }
+  ],
+  "articles": [
+    {
+      "title": "AI workflows and automation in enterprise software",
+      "source": "Focus Area",
+      "summary": "Highlights your experience prototyping AI agents and automation tools for faster root-cause analysis.",
+      "link": "https://example.com"
+    }
+  ],
+  "contact": {
+    "title": "Let’s connect",
+    "summary": "For opportunities, contact me via email, LinkedIn, or GitHub.",
+    "email": "snehilbehar@gmail.com"
+  },
+  "chatbot": {
+    "title": "Ask about Snehil",
+    "subtitle": "Ask about my experience, projects, skills, or how to get in touch.",
+    "welcome": "Hi, I can answer questions about Snehil's background, GitHub, LinkedIn, experience, and projects.",
+    "suggestedQuestions": [
+      "What does Snehil specialize in?",
+      "Where did Snehil work at Cisco?",
+      "What projects should I look at first?",
+      "How can I contact Snehil?"
+    ]
+  }
+}
